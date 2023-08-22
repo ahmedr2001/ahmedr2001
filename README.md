@@ -3,9 +3,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ahmedr2001&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedr2001" /> </p>
 
-- 🔭 Ex-Intern @ bld.ai
+- 🔭 SWE Intern @Dstny Engage
 
-- 🌱 I’m currently learning **WebRTC, WebSockets, and Advanced Algorithms**
+- 🌱 I’m currently learning **gRPC, WebRTC, WebSockets, and Advanced Algorithms**
 
 - 💬 Ask me about **C++, Python, JS, Data Structures, Algorithms, Node.js and Express.js, React.js, or SQL**
 
