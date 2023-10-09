@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ahmedr2001&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedr2001" /> </p>
 
-- 🔭 SWE Intern @Dstny Engage
+- 🔭 Ex-SWE Intern @Dstny Engage
 
 - 🌱 I’m currently learning **gRPC, WebRTC, WebSockets, and Advanced Algorithms**
 
